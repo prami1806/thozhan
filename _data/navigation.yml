@@ -1,0 +1,67 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About Us
+  url: "/about-us/"
+  side: left
+
+- title: "Activities"
+  url: "/activities/"
+  side: left
+  dropdown:
+  - title: "Anbu Illam"
+    url: "/activities/anbu-illam/"
+  - title: "Speech Workshop"
+    url: "/activities/speech-workshop/"
+  - title: "Organ Donation Awareness"
+    url: "/activities/organ-donation-awareness/"
+  - title: "Namma Area"
+    url: "/activities/namma-area/"
+  - title: "Suicide Prevention"
+    url: "/activities/suicide-prevention/"
+  - title: "Environmental Conservation"
+    url: "/activities/environmental-conservation/"
+  - title: "Accident Free Nation"
+    url: "/activities/accident-free-nation/"
+  - title: "Relief Works"
+    url: "/activities/relief-works/"
+
+- title: "Milestones"
+  url: "/milestones/"
+  side: left
+  dropdown:
+  - title: "2014"
+    url: "/milestones/2014/"
+  - title: "2015"
+    url: "/milestones/2015/"
+  - title: "2016"
+    url: "/milestones/2016/"
+  - title: "2017"
+    url: "/milestones/2017/"
+  - title: "2018"
+    url: "/milestones/2018/"
+  - title: "2019"
+    url: "/milestones/2019/"
+  - title: "2020"
+    url: "/milestones/2020/"
+
+- title: Recognition
+  url: "/recognition/"
+  side: left
+
+- title: Representations
+  url: "/representations/"
+  side: left
+
+- title: CSR
+  url: "/csr/"
+  side: left
+  
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact Us"
+  url: "/contact-us/"
+  side: right
